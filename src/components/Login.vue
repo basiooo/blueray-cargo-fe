@@ -83,6 +83,10 @@ export default {
                         <span v-else>Masuk</span>
                     </button>                
                 </form>
+                <div class="text-center">
+                    <p>Belum memiliki Akun..?</p>
+                    <a href="/registration">Daftar</a>
+                </div>
             </div>
         </div>
     </div>

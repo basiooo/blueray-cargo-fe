@@ -95,6 +95,10 @@ export default {
                         <span v-else>Daftar</span>
                     </button>                
                 </form>
+                <div class="text-center">
+                    <p>Sudah memiliki akun..?</p>
+                    <a href="/login">Masuk</a>
+                </div>
             </div>
         </div>
     </div>
